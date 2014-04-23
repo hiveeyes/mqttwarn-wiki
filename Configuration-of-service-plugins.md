@@ -3,3 +3,4 @@ Service plugins are configured in the main `mqttwarn.ini` file. Each service has
 We term the array for each target an "address list" for the particular service. These may be path names (in the case of the `file` service), topic names (for outgoing `mqtt` publishes), hostname/port number combinations for `xbmc`, etc.
 
 * [file](https://github.com/jpmens/mqttwarn/wiki/file)
+* [gss](https://github.com/jpmens/mqttwarn/wiki/gss)
