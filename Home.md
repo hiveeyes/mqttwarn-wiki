@@ -24,9 +24,9 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | **t** | [twilio](stwilio), [twitter](twitter) |
 | **x** | [xbmc](xbmc) |
 
-Notifications are transmitted to the appropriate service via plugins. We provide plugins for the above list of services, and you can easily add your own.
+Notifications are transmitted to the appropriate service via plugins. We provide plugins for the above list of services, and you can easily add your [own](https://github.com/jpmens/mqttwarn/wiki/Plugins).
 
-I've written an introductory post, explaining [what mqttwarn can be used for](http://jpmens.net/2014/04/03/how-do-your-servers-talk-to-you/).
+The developer wrote an introductory post, explaining [what mqttwarn can be used for](http://jpmens.net/2014/04/03/how-do-your-servers-talk-to-you/).
 
 * [Getting started](https://github.com/jpmens/mqttwarn/wiki/Getting-started)
 * [The configuration file](https://github.com/jpmens/mqttwarn/wiki/Cofniguration-file)
