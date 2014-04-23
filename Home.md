@@ -28,6 +28,7 @@ Notifications are transmitted to the appropriate service via plugins. We provide
 
 The developer wrote an introductory post, explaining [what mqttwarn can be used for](http://jpmens.net/2014/04/03/how-do-your-servers-talk-to-you/).
 
+* [Setup](https://github.com/jpmens/mqttwarn/wiki/Setup)
 * [Getting started](https://github.com/jpmens/mqttwarn/wiki/Getting-started)
 * [The configuration file](https://github.com/jpmens/mqttwarn/wiki/Cofniguration-file)
 * [Transformation](https://github.com/jpmens/mqttwarn/wiki/Transformation)
