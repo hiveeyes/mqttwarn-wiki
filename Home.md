@@ -10,7 +10,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 
 | #     | Plugins                                     |
 | :---: |:--------------------------------------------|
-| **f** | [file](file) |
+| **f** | [file](file), [freeswitch](freeswitch) |
 | **g** | [gss](gss)  |
 | **h** | [http](http) |
 | **i** | [irccat](irccat) |
