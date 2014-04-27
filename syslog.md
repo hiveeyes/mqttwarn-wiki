@@ -13,7 +13,7 @@ targets = {
 | ------------- | :----: | -------------------------------------- |
 | `title`       |   O    | application title (dflt: `mqttwarn`)   |
 
-output:
+Output:
 ```
 Apr 22 12:42:42 mqttest019 mqttwarn[9484]: Disk utilization: 94%
 ```
