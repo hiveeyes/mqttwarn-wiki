@@ -14,7 +14,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | **g** | [gss](gss)  |
 | **h** | [http](http) |
 | **i** | [irccat](irccat) |
-| **l** | [log](log) |
+| **l** | [linuxnotify](linuxnotify), [log](log) |
 | **m** | [mqtt](mqtt), [mqttpub](mqttpub), [mysql](mysql) |
 | **n** | [nma](nma), [nntp](nntp), [nsca](nsca) |
 | **o** | [osxnotify](osxnotify), [osxsay](osxsay) |
