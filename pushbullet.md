@@ -1,7 +1,6 @@
+This service is for [PushBullet](https://www.pushbullet.com), an app for Android along with extensions for Chrome and Firefox, which allows notes, links, pictures, addresses and files to be sent between devices.
 
-This service is for [PushBullet](https://www.pushbullet.com), an app for Android along with an extension for Chrome, which allows notes, links, pictures, addresses and files to be sent between devices.
-
-You can get your API key from [here](https://www.pushbullet.com/account) after signing up for a PushBullet account. You will also need the device ID to push the notifications to. To obtain this you need  to follow the instructions at [pyPushBullet](https://github.com/Azelphur/pyPushBullet) and run ``./pushbullet_cmd.py YOUR_API_KEY_HERE getdevices``.
+You can get your API key from [PushBullet account](https://www.pushbullet.com/account) after signing up. You will also need the device ID to push the notifications to. To obtain this, you need to follow the instructions at [pyPushBullet](https://github.com/Azelphur/pyPushBullet) and run ``./pushbullet_cmd.py YOUR_API_KEY_HERE getdevices``.
 
 ```ini
 [config:pushbullet]
