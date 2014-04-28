@@ -14,7 +14,7 @@ targets = {
 | ------------- | :----: | -------------------------------------- |
 | `title`       |   O    | application title (dflt: `mqttwarn`)   |
 
-![Pushbullet](assets/pushbullet.jpg)
+![Pushbullet](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/pushbullet.jpg)
 
 Requires:
 * a [Pushbullet](https://www.pushbullet.com) account with API key
