@@ -1,2 +1,2 @@
 * [agi-mqtt](https://github.com/zeha/agi-mqtt) catches missed Asterisk calls and publishes them to MQTT from which _mqttwarn_ reports them
-* Christian Hofstaedtler had a neat idea: forward IRC messages [with an awayforward.pl](https://gist.github.com/zeha/11387703) script to MQTT from which _mqttwarn_ can post them to, say, _pushover_ or another notification service.
+* [[Forward Irrsi highlights|examples-irssi]]
