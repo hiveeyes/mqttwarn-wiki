@@ -64,3 +64,8 @@ targets thusly:
 ```json
 "host": "arduino/temp", "woohooo": 17, "tst": "2014-04-13T09:25:46.247150Z", "temperature": "22", "short_message": "Heat 22"}
 ```
+
+## More examples
+
+* [agi-mqtt](https://github.com/zeha/agi-mqtt) catches missed Asterisk calls and publishes them to MQTT from which _mqttwarn_ reports them
+* [[Forward Irrsi highlights|Examples:-Forward-Irssi-hightlights]]
