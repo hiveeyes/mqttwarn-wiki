@@ -37,7 +37,6 @@ Notifications are transmitted to the appropriate service via plugins. We provide
 * [Plugins](https://github.com/jpmens/mqttwarn/wiki/Plugins)
 * [Advanced features](https://github.com/jpmens/mqttwarn/wiki/Advanced-features)
 * [Examples](https://github.com/jpmens/mqttwarn/wiki/Examples)
-* [Use cases](https://github.com/jpmens/mqttwarn/wiki/Use-cases)
 
 ## Press
 
