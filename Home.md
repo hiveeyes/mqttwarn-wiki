@@ -1,6 +1,6 @@
 To _warn_, _alert_, or _notify_.
 
-![Definition by Google](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/jmbp-841.jpg)
+![Definition by Google](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/google-definition.jpg)
 
 This program subscribes to any number of MQTT topics (which may include wildcards) and publishes received payloads to one or more notification services, including support for notifying more than one distinct service for the same message.
 
