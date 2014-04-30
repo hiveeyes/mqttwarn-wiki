@@ -23,7 +23,7 @@ mosquitto_pub -t nn/ohoh -m '{"username": "jan", "device":"phone", "lat": "-33.8
 
 turns into
 
-![GSS](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/gss_screenshot.png)
+![GSS](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/gss.png)
 
 Note: It is important that the top row into your blank spreadsheet has column headings that correspond the values that represent your dictionary keys.
 If these column headers are not available, you will most likely see an error like this:
