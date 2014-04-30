@@ -4,7 +4,7 @@
 | ------------- | :----: | -------------------------------------- |
 | `title`       |   O    | application title (dflt: topic name)   |
 
-![OSXnotify](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/jmbp-840.jpg)
+![OSXnotify](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/osxnotify.jpg)
 
 Requires:
 * A Mac :-)
