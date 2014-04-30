@@ -33,4 +33,4 @@ gdata.service.RequestError: {'status': 400, 'body': 'We&#39;re sorry, a server e
 ```
 
 Requires:
-* [gdata-python-client](https://code.google.com/p/gdata-python-client/). This client has to be installed.
+* [gdata-python-client](https://code.google.com/p/gdata-python-client/)
