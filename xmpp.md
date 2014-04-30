@@ -11,6 +11,8 @@ targets = {
 
 Targets may contain more than one recipient, in which case all specified recipients get the message.
 
+![XMPP message](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/xmpp.jpg)
+
 Requires:
 * XMPP (Jabber) accounts (at least one for the sender and one for the recipient)
 * [xmpppy](http://xmpppy.sourceforge.net)
