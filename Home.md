@@ -19,7 +19,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | **m** | [mqtt](mqtt), [mqttpub](mqttpub), [mysql](mysql) |
 | **n** | [nma](nma), [nntp](nntp), [nsca](nsca) |
 | **o** | [osxnotify](osxnotify), [osxsay](osxsay) |
-| **p** | [pipe](pipe), [prowl](prowl), [pushbullet](pushbullet), [pushover](pushover) |
+| **p** | [pastebinpub](pastebinpub), [pipe](pipe), [prowl](prowl), [pushbullet](pushbullet), [pushover](pushover) |
 | **r** | [redispub](redispub) |
 | **s** | [sqlite](sqlite), [smtp](smtp), [syslog](syslog) |
 | **t** | [twilio](twilio), [twitter](twitter) |
