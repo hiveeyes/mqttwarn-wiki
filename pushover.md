@@ -17,7 +17,7 @@ This defines four targets (`nagios`, `alerts`, etc.) which are directed to the c
 | `title`       |   O    | application title (dflt: pushover dflt) |
 | `priority`    |   O    | priority. (dflt: pushover setting)     |
 
-![pushover on iOS](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/screenshot.png)
+![pushover on iOS](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/pushover.png)
 
 Requires:
 * A [pushover.net](https://pushover.net/) account
