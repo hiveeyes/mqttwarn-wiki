@@ -13,7 +13,7 @@ targets = {
    }
 ```
 
-![A tweet](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/tweet.jpg)
+![A tweet](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/twitter.jpg)
 
 Requires:
 
