@@ -4,7 +4,7 @@ Consider the following configuration snippets:
 
 ```ini
 [config:mqtt]
-host =  'localhost'
+hostname =  'localhost'
 port =  1883
 qos =  0
 retain =  False
