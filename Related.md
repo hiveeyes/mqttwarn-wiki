@@ -1,0 +1,1 @@
+* [mqtt2chrome](https://github.com/matbor/mqtt2chrome) by @matbor subscribes to a topic and displays any messages published to that topic in a nice Chrome popup notification. Uses websockets, javascript and Chrome browser extensions.
