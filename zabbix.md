@@ -54,3 +54,7 @@ def ZabbixData(topic, data, srv=None):
 
     return dict(client=client, key=key, status_key=status_key)
 ```
+
+The blog post [Zabbix meets MQTT](http://jpmens.net/2014/05/27/zabbix-meets-mqtt/) explains a bit of the background.
+
+  [Zabbix]: http://zabbix.com
