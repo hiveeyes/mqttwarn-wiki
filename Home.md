@@ -24,7 +24,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | **r** | [redispub](redispub) |
 | **s** | [sqlite](sqlite), [smtp](smtp), [syslog](syslog) |
 | **t** | [twilio](twilio), [twitter](twitter) |
-| **x** | [xbmc](xbmc), [xmpp](xmpp) |
+| **x** | [xbmc](xbmc), [xmpp](xmpp), [xively](xively) |
 | **z** | [zabbix](zabbix) |
 
 Notifications are transmitted to the appropriate service via plugins. We provide plugins for the above list of services, and you can easily add your [own](https://github.com/jpmens/mqttwarn/wiki/Plugins).
