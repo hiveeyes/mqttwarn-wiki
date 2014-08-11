@@ -10,6 +10,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 
 | #     | Plugins                                     |
 | :---: |:--------------------------------------------|
+| **c** | [carbon](carbon) |
 | **d** | [dbus](dbus) |
 | **f** | [file](file), [freeswitch](freeswitch) |
 | **g** | [gss](gss)  |
