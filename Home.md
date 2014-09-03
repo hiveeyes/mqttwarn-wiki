@@ -12,8 +12,9 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | :---: |:--------------------------------------------|
 | **c** | [carbon](carbon) |
 | **d** | [dbus](dbus) |
+| **e** | [emoncms](emoncms) |
 | **f** | [file](file), [freeswitch](freeswitch) |
-| **g** | [gss](gss)  |
+| **g** | [gss](gss) |
 | **h** | [http](http) |
 | **i** | [instapush](instapush), [irccat](irccat) |
 | **l** | [linuxnotify](linuxnotify), [log](log) |
