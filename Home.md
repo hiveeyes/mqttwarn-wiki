@@ -23,7 +23,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | **o** | [osxnotify](osxnotify), [osxsay](osxsay) |
 | **p** | [pastebinpub](pastebinpub), [pipe](pipe), [prowl](prowl), [pushalot](pushalot), [pushbullet](pushbullet), [pushover](pushover) |
 | **r** | [redispub](redispub) |
-| **s** | [sqlite](sqlite), [smtp](smtp), [syslog](syslog) |
+| **s** | [slack](slack), [smtp](smtp), [sqlite](sqlite), [syslog](syslog) |
 | **t** | [twilio](twilio), [twitter](twitter) |
 | **x** | [xbmc](xbmc), [xmpp](xmpp), [xively](xively) |
 | **z** | [zabbix](zabbix) |
