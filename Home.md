@@ -12,7 +12,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | :---: |:--------------------------------------------|
 | **a** | [apns](apns) |
 | **c** | [carbon](carbon) |
-| **d** | [dbus](dbus) |
+| **d** | [dbus](dbus), [dnsupdate](dnsupdate) |
 | **e** | [emoncms](emoncms) |
 | **f** | [file](file), [freeswitch](freeswitch) |
 | **g** | [gss](gss) |
