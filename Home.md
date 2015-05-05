@@ -19,7 +19,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | **h** | [http](http) |
 | **i** | [instapush](instapush), [irccat](irccat) |
 | **l** | [linuxnotify](linuxnotify), [log](log) |
-| **m** | [mqtt](mqtt), [mqttpub](mqttpub), [mysql](mysql), [mysql_dynamic](mysql_dynamic) |
+| **m** | [mqtt](mqtt), [mqttpub](mqttpub), [mysql](mysql), [mysql_dynamic](mysql_dynamic), [mythtv](mythtv) |
 | **n** | [nma](nma), [nntp](nntp), [nsca](nsca) |
 | **o** | [osxnotify](osxnotify), [osxsay](osxsay) |
 | **p** | [pastebinpub](pastebinpub), [pipe](pipe), [prowl](prowl), [pushalot](pushalot), [pushbullet](pushbullet), [pushover](pushover) |
