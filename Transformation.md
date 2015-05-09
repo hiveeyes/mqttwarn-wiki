@@ -1,4 +1,4 @@
-In addition to passing the payload received via MQTT to a service, _mqttwarn_ allows you do do the following:
+In addition to passing the [[payload received|Replacement]] via MQTT to a service, _mqttwarn_ allows you do do the following:
 
 * Transform payloads on a per/topic basis. For example, you know you'll be receiving JSON, but you want to warn with a nicely formatted message.
 * For certain services, you can change the _title_ (or _subject_) of the outgoing message.
