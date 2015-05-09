@@ -4,7 +4,7 @@ To _warn_, _alert_, or _notify_.
 
 This program subscribes to any number of MQTT topics (which may include wildcards) and publishes received payloads to one or more notification services, including support for notifying more than one distinct service for the same message.
 
-For example, you may wish to notify via e-mail and to Pushover of an alarm published as text to the MQTT topic `home/monitoring/+`.
+For example, you may wish to notify via [[e-mail|smtp]] and to [[Pushover]] of an alarm published as text to the MQTT topic `home/monitoring/+`.
 
 ![Overview](https://raw.githubusercontent.com/jpmens/mqttwarn/master/assets/mqttwarn.png)
 
@@ -29,7 +29,7 @@ For example, you may wish to notify via e-mail and to Pushover of an alarm publi
 | **x** | [xbmc](xbmc), [xmpp](xmpp), [xively](xively) |
 | **z** | [zabbix](zabbix) |
 
-Notifications are transmitted to the appropriate service via plugins. We provide plugins for the above list of services, and you can easily add your [own](https://github.com/jpmens/mqttwarn/wiki/Plugins).
+Notifications are transmitted to the appropriate service via [[plugins]]. We provide plugins for the above list of services, and you can easily [[add your own|Plugins]].
 
 [Jan-Piet Mens](http://jpmens.net), the main developer, wrote an introductory post, explaining [what mqttwarn can be used for](http://jpmens.net/2014/04/03/how-do-your-servers-talk-to-you/).
 
