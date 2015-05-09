@@ -1,0 +1,3 @@
+* Home
+* Plugins
+* Advanced features
