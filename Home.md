@@ -33,14 +33,14 @@ Notifications are transmitted to the appropriate service via plugins. We provide
 
 [Jan-Piet Mens](http://jpmens.net), the main developer, wrote an introductory post, explaining [what mqttwarn can be used for](http://jpmens.net/2014/04/03/how-do-your-servers-talk-to-you/).
 
-* [Setup](https://github.com/jpmens/mqttwarn/wiki/Setup)
-* [Getting started](https://github.com/jpmens/mqttwarn/wiki/Getting-started)
-* [The configuration file](https://github.com/jpmens/mqttwarn/wiki/Cofniguration-file)
-* [Transformation](https://github.com/jpmens/mqttwarn/wiki/Transformation)
-* [Configuration of service plugins](https://github.com/jpmens/mqttwarn/wiki/Configuration-of-service-plugins)
-* [Plugins](https://github.com/jpmens/mqttwarn/wiki/Plugins)
-* [Advanced features](https://github.com/jpmens/mqttwarn/wiki/Advanced-features)
-* [Examples](https://github.com/jpmens/mqttwarn/wiki/Examples)
+* [[Setup]]
+* [[Getting started]]
+* [[The configuration file]]
+* [[Transformation]]
+* [[Configuration of service plugins]]
+* [[Plugins]]
+* [[Advanced features]]
+* [[Examples]]
 
 ## Press
 
