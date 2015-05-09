@@ -35,7 +35,7 @@ Notifications are transmitted to the appropriate service via [[plugins]]. We pro
 
 * [[Setup]]
 * [[Getting started]]
-* [[The configuration file]]
+* [[The configuration file|Configuration of service plugins]]
 * [[Transformation]]
 * [[Configuration of service plugins]]
 * [[Plugins]]
