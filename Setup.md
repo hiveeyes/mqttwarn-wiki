@@ -15,3 +15,33 @@ You'll need at least the following components:
 4. Launch `mqttwarn.py`
 
 I recommend you use [Supervisor](http://jpmens.net/2014/02/13/in-my-toolbox-supervisord/) for running this.
+
+### Installation on a Mac
+
+This paragraph explains how to install and use mqttwarn without needing any developer tools like git. It presumes some experience with OS X Terminal. By installing it to `~/opt` instead op `/opt` you will not need sudo rights to use it
+
+Download and install from original repo through terminal:
+
+    cd ~/Downloads
+    curl -LO https://github.com/jpmens/mqttwarn/archive/master.zip
+    unzip master.zip
+    mkdir ~/opt
+    cp -R mqttwarn-master ~/opt/mqttwarn
+    rm -R mqttwarn-master
+    rm master.zip
+    cd ~/opt/mqttwarn
+
+Copy `mqttwarn.ini.sample` to `mqttwarn.ini` and edit to your taste
+
+    cp mqttwarn.ini.sample mqttwarn.ini
+
+Install the [Paho](http://www.eclipse.org/paho/) Python module (you need sudo)
+
+    sudo pip install paho-mqtt
+
+Optionally, install the prerequisite Python modules for the services you want to use
+
+Launch `mqttwarn.py`
+
+    chmod u+x mqttwarn.py
+    ./mqttwarn.py
