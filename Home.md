@@ -23,7 +23,7 @@ For example, you may wish to notify via [[e-mail|smtp]] and to [[Pushover]] of a
 | **n** | [nma](nma), [nntp](nntp), [nsca](nsca) |
 | **o** | [osxnotify](osxnotify), [osxsay](osxsay) |
 | **p** | [pastebinpub](pastebinpub), [pipe](pipe), [prowl](prowl), [pushalot](pushalot), [pushbullet](pushbullet), [pushover](pushover) |
-| **r** | [redispub](redispub) |
+| **r** | [redispub](redispub), [rrdtool](rrdtool) |
 | **s** | [slack](slack), [smtp](smtp), [sqlite](sqlite), [syslog](syslog) |
 | **t** | [twilio](twilio), [twitter](twitter) |
 | **x** | [xbmc](xbmc), [xmpp](xmpp), [xively](xively) |
