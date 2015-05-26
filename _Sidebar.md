@@ -31,6 +31,7 @@
     * [[pushbullet]]
     * [[pushover]]
     * [[redispub]]
+    * [[rrdtool]]
     * [[slack]]
     * [[smtp]]
     * [[sqlite]]
