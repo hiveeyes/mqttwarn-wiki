@@ -102,7 +102,7 @@ format = "{kind} of {node}_{gateway}@{network} is {payload}°C"
 ```
 would give us:
 ```
-temp1 of 1_8sf83id9@0ef-917-40b-a4-5b5 is 22.5 °C
+temp1 of 1_8sf83id9@0ef-917-40b-a4-5b5 is 22.5°C
 ```
 But to incorporate the topic segments into potential _service targets_ we need to use a
 function to compute the topic target list.
@@ -145,9 +145,9 @@ targets = TopicTargetList()
 sender = 'hiveeyes@xmpp.beekeepersclub.org'
 password = 'yourcatsname'
 targets = {
-            '0ef-917-40b-a4-5b5' : [research@xmpp.beekeepersclub.org'],
-            '8sf83id9' : [section_BER@xmpp.beekeepersclub.org],
-            '1' : [peng@xmpp.beekeepersclub.org]
+            '0ef-917-40b-a4-5b5' : ['research@xmpp.beekeepersclub.org'],
+            '8sf83id9' : ['section_BER@xmpp.beekeepersclub.org'],
+            '1' : ['peng@xmpp.beekeepersclub.org']
          }
 ```
 
